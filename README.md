@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu cantinho 🐒
+## Bem-vindo(a) ao meu cantinho 🦇
 
  <div> 
    <a href="https://github.com/brunodevx">
